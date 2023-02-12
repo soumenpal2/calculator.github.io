@@ -1,0 +1,56 @@
+
+h2{
+   margin: auto auto; 
+   align-items: center;
+   display: flex;
+   justify-content: center;
+   margin-top:20px;
+font-weight: 800;
+color: rgb(62, 58, 70);
+
+}
+
+
+
+#clear{
+    width:341px ;
+    height:40px ;
+    margin-left: 0px;
+    margin-bottom:0px ;
+    margin-right:0px;
+    background-color: rgb(46, 43, 51);
+    font-size:17px;
+
+}
+.formstyle{
+    width: 340px;
+    height: 618px;
+    margin: auto;
+    border:2px solid rgb(62, 58, 70);
+    background:5px ;
+    
+    margin-top:26px;
+   
+}
+input{
+    width: 70px;
+    height: 50px;
+    background-color: rgb(62, 58, 70);
+    color: white;
+    margin-top: 30px;
+    margin-left:20px ;
+    margin-right:20px ;
+    font-size: 18px;
+  
+}
+#answer-style{
+    width:333px ;
+    height: 70px;
+    margin-left: 0px;
+    margin-top:0px ;
+    margin-right:0px ;
+    background-color: rgb(206, 217, 217);
+    color: black;
+    font-size: 25px;
+   
+}
